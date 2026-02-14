@@ -6,12 +6,12 @@ I'm a **Full-Stack Web Developer** who focuses on solving real-world problems wi
 
 ---
 
-## 🧠 How I Think as a Developer
-- I approach problems analytically and logically  
-- I design solutions before writing code  
-- I prioritize maintainability and performance  
-- I enjoy refactoring messy systems into clean architectures  
-- I turn vague ideas into working applications  
+## 🧠 How I Work
+- Break problems into smaller parts  
+- Plan before coding  
+- Write clean and readable code  
+- Improve and maintain existing systems  
+- Build practical solutions
 
 ---
 
