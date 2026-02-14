@@ -1,50 +1,52 @@
 # 👋 Hi, I'm Charles Giane Gantes
 
-I'm a **Full-Stack Web Developer** who loves building clean, functional, and user-friendly web applications. I enjoy turning ideas into real products through thoughtful UI and solid backend logic.
+I'm a **Full-Stack Web Developer** who focuses on solving real-world problems with clean, scalable, and user-centered solutions. I enjoy breaking down complex requirements and turning them into efficient systems that just work.
 
 🌐 Portfolio: [charlesgianegantes.online](https://www.charlesgianegantes.online)
 
 ---
 
-## 🚀 About Me
-- Passionate about modern web development  
-- I enjoy working across both frontend and backend  
-- I value clean code, good UX, and continuous learning  
-- Love transforming concepts into practical digital solutions  
+## 🧠 How I Think as a Developer
+- I approach problems analytically and logically  
+- I design solutions before writing code  
+- I prioritize maintainability and performance  
+- I enjoy refactoring messy systems into clean architectures  
+- I turn vague ideas into working applications  
 
 ---
 
 ## 🛠 Tech Stack
-**Frontend:**  
-- ReactJs
-- React Native  
-- Tailwind CSS  
-- Livewire  
 
-**Backend:**  
-- Laravel  
-- PHP  
+### Frontend  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![Livewire](https://img.shields.io/badge/Livewire-4B2E83?style=for-the-badge&logo=laravel&logoColor=FF2D20)
 
-**Database:**  
-- MySQL  
-- MSSQL  
+### Backend  
+![Laravel](https://img.shields.io/badge/Laravel-2E2E2E?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![PHP](https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white)
 
-**Tools:**  
-- Git & GitHub  
-- Docker  
-- Figma  
+### Database  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
----
-
-## 📌 What I Do
-- Build responsive full-stack web applications  
-- Design intuitive user interfaces  
-- Write maintainable and efficient code  
-- Collaborate and learn with other developers  
+### Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 📫 Connect With Me
+## 📌 What I Build
+- Full-stack web applications  
+- Internal business tools and dashboards  
+- Data-driven systems  
+- Clean and intuitive UI/UX  
+- Maintainable and scalable architectures  
+
+---
+
+## 📫 Let's Connect
 - 🌐 Portfolio: [charlesgianegantes.online](https://www.charlesgianegantes.online)  
 - 💼 LinkedIn: [linkedin.com/in/cggantes](https://www.linkedin.com/in/cggantes/)  
 - 📧 Email: [oigantes@gmail.com](mailto:oigantes@gmail.com)
