@@ -16,7 +16,8 @@ I'm a **Full-Stack Web Developer** who loves building clean, functional, and use
 
 ## 🛠 Tech Stack
 **Frontend:**  
-- React  
+- ReactJs
+- React Native  
 - Tailwind CSS  
 - Livewire  
 
